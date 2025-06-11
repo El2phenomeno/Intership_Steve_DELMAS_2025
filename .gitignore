@@ -1,6 +1,9 @@
 # Ignore le dossier de l'environnement virtuel
 venv/
 
+#Ignore le fichier CIFAR
+cifar-10-python.tar.gz
+
 # Fichiers Python compilés
 __pycache__/
 *.pyc
